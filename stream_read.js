@@ -1,9 +1,10 @@
 var stream = require('stream');
 var util = require('util');
 util.inherits(Answers, stream.Readable);
+
 function Answers(opt) {
   stream.Readable.call(this, opt);
-  this.quotes2 = ["yes", "no", "maybe"];
+  this.quotes2 = ["yes", "no", "maybe","cleo"];
   this._index = 0;
 }
 

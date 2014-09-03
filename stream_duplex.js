@@ -37,19 +37,13 @@ d.write("I think, ");
 d.write("therefore ");
 d.write("I am.");
 d.write("Rene Descartes");
-
+d.write("stop");
 
 //setTimeout(aaa('stop'),10000);
-setTimeout(bbb(),300);
-setTimeout(bbb(),600);
-setTimeout(bbb(),900);
-setTimeout(bbb(),1200);
-setTimeout(bbb(),1500);
-setTimeout(bbb(),2000);
-setTimeout(bbb(),4000);
+
 
 //setInterval(bbb(),1000);
-var myvar = setInterval(function(){ bbb();}, 300);
+//var myvar = setInterval(function(){ bbb();}, 300);
 //setTimeout(aaa('222'),2000);
 //setTimeout(aaa('333'),3000);
 
