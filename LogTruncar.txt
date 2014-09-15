@@ -1,0 +1,9 @@
+1principio
+2{"maxFiles":22,"maxConnections":15,"rootPath":"/webroot2"}
+3{"maxFiles":22,"maxConnections":15,"rootPath":"/webroot2"}
+4{"maxFiles":22,"maxConnections":15,"rootPath":"/webroot2"}
+5{"maxFiles":22,"maxConnections":15,"rootPath":"/webroot2"}
+6{"maxFiles":22,"maxConnections":15,"rootPath":"/webroot2"}
+7{"maxFiles":22,"maxConnections":15,"rootPath":"/webroot2"}
+8{"maxFiles":22,"maxConnections":15,"rootPath":"/webroot2"}
+9{"maxFiles":22,"maxConnections":15,"rootPath":"/webroot2"}
