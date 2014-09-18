@@ -1,5 +1,5 @@
 var url = require('url');
-var urlStr = 'http://maf:123456@10.3.4.20:8080/mantis/view.php?id=52708'
+var urlStr =  'http://google.com'; //'http://maf:123456@10.3.4.20:8080/mantis/view.php?id=52708'
 var urlObj = url.parse(urlStr,true, false) // url, <parseQueryString>,<slashesDenoteHost
 var urlString = url.format(urlObj);
 console.log(urlObj);

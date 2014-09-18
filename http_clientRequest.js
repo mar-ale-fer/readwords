@@ -1,8 +1,8 @@
 var http = require('http');
 var options = {
-  hostname: 'maralefer.comli.com',
-  path: '/',
-  port: '80',
+  hostname: 'localhost',
+  path: '/otrodocumento.html',
+  port: '8080',
   method: 'GET'
 };
 var req =  http.request(options, function (response){
