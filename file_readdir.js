@@ -17,4 +17,4 @@ function WalkDirs(dirPath) {
 	};
   });
 }
-WalkDirs("../readwords");
+WalkDirs("../nelson");
